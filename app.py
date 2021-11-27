@@ -18,7 +18,7 @@ def fetch_data():
     return df
 
 
-df = fetch_data()
+# df = fetch_data()
 st.write(df)
 
 st.sidebar.header('User Input Features')
