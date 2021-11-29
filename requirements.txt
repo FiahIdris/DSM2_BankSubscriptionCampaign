@@ -3,3 +3,4 @@ sklearn
 pandas
 joblib
 plotly
+seaborn
